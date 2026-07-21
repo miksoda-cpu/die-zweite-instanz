@@ -44,4 +44,6 @@ nicht in die Seeds schreiben.
 - [x] Verfassung liegt in `00-verfassung/` (v0.3, 21.07.2026)
 - [x] `KONSTANZE_character.md` daraus abgeleitet (VAL-Repo, 21.07.2026 — Blaupause: Artikel 3)
 - [x] Erste Seeds in `seed_konstanze.jsonl` (52 Beispiele, 21.07.2026 — Dossier ZI-2026-001 bewusst ausgespart, damit der erste Akt eine echte Entscheidung bleibt)
-- [ ] Erste Lernrunde *(läuft, 21.07.2026)*
+- [x] Erste Lernrunde (21.07.2026 → `adapters/konstanze-lernrunde1-20260721`); erster Amtsakt WS-2026-001, vom Souverän passiert **mit Auflage (S-010)**
+- [x] Auflage-Seeds (21.07.2026, +18 → 70): volles Ergebnis-Format (Entscheidung → Begründung → Widerspruchs-Würdigung → Oma-Teil → Prognose), Gegenpositionen ausdrücklich beantworten, Korrektur-Runden (mehrstufig), Zahlen-Disziplin
+- [ ] Zweite Lernrunde *(läuft, 21.07.2026)*
