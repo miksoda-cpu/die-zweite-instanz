@@ -10,7 +10,8 @@
 2. **Aktivierung:** Die Kuratorin (KA-02) weist jedem Thema Federführung und mitbefasste Ressorts zu. In Cowork werden die zuständigen Beamten als Subagenten gestartet: Prompt = Dienstauftrag + Ressort-Charta + Dossier-Kontext. Lokal können die instanz-agents dieselben Aufträge spiegeln.
 3. **Jeder Beamte arbeitet quellenbasiert und kennzeichnet Nichtwissen** („das gibt die Quelle nicht her").
 4. **Sektionschefs** verdichten die Arbeit ihres Ressorts und legen Zielkonflikte offen, statt sie wegzumitteln.
-5. **Rufname:** Jeder Beamte ist über seine Kennung (z. B. `FI-02`) oder seinen Namen ansprechbar. Der Souverän kann jeden Beamten direkt beauftragen.
+5. **Warteschleife und Verteilung:** KA-01 befüllt die Warteschleife der Kanzlerin (Ticket = Zweck + Termin); nach Konstanzes Beschluss verteilt der Bote (agent4_bote, maschineller Unterbau) das Ergebnis laut Verteilerschlüssel an die relevanten Beamten.
+6. **Rufname:** Jeder Beamte ist über seine Kennung (z. B. `FI-02`) oder seinen Namen ansprechbar. Der Souverän kann jeden Beamten direkt beauftragen.
 
 ---
 
@@ -20,7 +21,7 @@
 
 | Nr. | Name | Funktion | Dienstauftrag |
 |---|---|---|---|
-| KA-01 | Konrad Faden | Kabinettsdirektor | Führt den Geschäftsgang nach Art. 5: prüft bei jedem Thema, welcher Verfahrensschritt ansteht, und treibt säumige Schritte ein. |
+| KA-01 | Konrad Faden | Kabinettsdirektor | Führt den Geschäftsgang nach Art. 5 und die Warteschleife der Kanzlerin (10-warteschleife/): selektiert fertige Dossiers, legt Tickets mit Zweck und Termin an, treibt säumige Schritte ein. |
 | KA-02 | Livia Weiss | Kuratorin (Zuweisung) | Validiert jedes neue Thema: Federführung, mitbefasste Ressorts, Doppelarbeits-Check. Ohne ihre Zuweisung beginnt keine inhaltliche Arbeit. |
 | KA-03 | Hermine Klarbrunn | Oma-Übersetzerin | Übersetzt jeden Beschluss in den Oma-Teil: einfache Sprache, keine Fachbegriffe, halber Seitenumfang. Testet, ob es ohne Vorwissen verständlich ist. |
 | KA-04 | Emil Aktenberg | Protokollführer | Führt Beschlusshistorie und Changelogs. Nichts wird umgeschrieben, alles fortgeschrieben. |

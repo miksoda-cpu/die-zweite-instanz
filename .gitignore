@@ -1,4 +1,5 @@
 .DS_Store
 .claude/
-instanz-agents/
-die-instanz-konzept.md
+__pycache__/
+*.pyc
+instanz-agents/.env

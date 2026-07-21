@@ -1,5 +1,7 @@
 # Die Zweite Instanz
 
+**Öffentliches Repo:** https://github.com/miksoda-cpu/die-zweite-instanz
+
 **Die Parallelregierung.** Ein Projekt der Partei Die Instanz und von The Digioneer.
 
 Die Realität ist die erste Instanz. Wir sind die Berufung. Jedes Gesetz des realen
@@ -25,6 +27,7 @@ Parlaments geht bei uns in Berufung — und in letzter Instanz entscheidet der S
 - `07-partei/` — Dokumente der Partei Die Instanz: Parteiprogramm, Statuten
 - `08-recherche/` — Recherche- und Strategiedokumente (GTS, KI-Einsatz, Status quo, Zero Budget)
 - `09-apparat/` — Die Beamtenschaft des Apparats: 100 Beamte in 10 Ressorts (beamtenschaft-v1.0.md)
+- `10-warteschleife/` — Arbeitsvorrat der Kanzlerin: Tickets mit Zweck und Termin (wartend → in Arbeit → erledigt), verteilt vom Boten
 
 ## Die Oma-Klausel
 

@@ -1,0 +1,192 @@
+# =============================================================
+# MEDIEN-REGISTER DER INSTANZ
+# =============================================================
+# Ideologische Einordnung der Quellen. Diese Datei ist Teil der
+# öffentlichen Verfassung der Instanz: Jede Änderung gehört
+# versioniert (git) und begründet.
+#
+# Skala "ausrichtung": -2 (links) .. 0 (mittig) .. +2 (rechts)
+# "stil": qualitaet | boulevard | agentur | magazin
+# "verlaesslichkeit": 1 (niedrig) .. 5 (hoch) — Faktenniveau,
+#   nicht Meinungsrichtung!
+# Einordnungen sind Startwerte nach gängiger medienwissen-
+# schaftlicher Literatur und öffentlicher Selbstbeschreibung.
+# EIGENE PRÜFUNG ERFORDERLICH.
+# =============================================================
+
+inland:
+  orf:
+    name: "ORF News"
+    rss: "https://rss.orf.at/news.xml"
+    ausrichtung: 0
+    stil: qualitaet
+    verlaesslichkeit: 5
+    notiz: "Öffentlich-rechtlich, gesetzlicher Objektivitätsauftrag; Bias-Vorwürfe von beiden Rändern."
+  derstandard:
+    name: "Der Standard"
+    rss: "https://www.derstandard.at/rss"
+    ausrichtung: -1
+    stil: qualitaet
+    verlaesslichkeit: 5
+    notiz: "Linksliberal, sozialliberales Selbstverständnis."
+  diepresse:
+    name: "Die Presse"
+    rss: "https://www.diepresse.com/rss/Politik"
+    ausrichtung: 1
+    stil: qualitaet
+    verlaesslichkeit: 5
+    notiz: "Bürgerlich-liberal, wirtschaftsliberal."
+  krone:
+    name: "Kronen Zeitung"
+    rss: "https://www.krone.at/nachrichten/rss"
+    ausrichtung: 1
+    stil: boulevard
+    verlaesslichkeit: 3
+    notiz: "Reichweitenstärkstes Boulevardmedium, populistische Tonlage, Themensetzung rechts der Mitte."
+  kurier:
+    name: "Kurier"
+    rss: "https://kurier.at/politik/xml/rssd"
+    ausrichtung: 0
+    stil: qualitaet
+    verlaesslichkeit: 4
+    notiz: "Mitte, Raiffeisen-Nähe im Eigentümerhintergrund."
+  kleinezeitung:
+    name: "Kleine Zeitung"
+    rss: "https://www.kleinezeitung.at/rss/politik"
+    ausrichtung: 0
+    stil: qualitaet
+    verlaesslichkeit: 4
+    notiz: "Regional stark (Steiermark/Kärnten), Styria-Verlag, katholischer Hintergrund."
+  sn:
+    name: "Salzburger Nachrichten"
+    rss: "https://www.sn.at/politik/rss"
+    ausrichtung: 0
+    stil: qualitaet
+    verlaesslichkeit: 4
+    notiz: "Bürgerliche Mitte, unabhängiger Familienverlag."
+  profil:
+    name: "Profil"
+    rss: "https://www.profil.at/xml/rss"
+    ausrichtung: -1
+    stil: magazin
+    verlaesslichkeit: 4
+    notiz: "Nachrichtenmagazin, investigativ, linksliberal."
+  kontrast:
+    name: "Kontrast.at"
+    rss: "https://kontrast.at/feed/"
+    ausrichtung: -2
+    stil: magazin
+    verlaesslichkeit: 3
+    notiz: "SPÖ-Parlamentsklub-nahe. Als Parteimedium kennzeichnen!"
+  exxpress:
+    name: "eXXpress"
+    rss: "https://exxpress.at/feed/"
+    ausrichtung: 2
+    stil: boulevard
+    verlaesslichkeit: 2
+    notiz: "Rechtspopulistisch orientiertes Onlinemedium."
+  zackzack:
+    name: "ZackZack"
+    rss: "https://zackzack.at/feed"
+    ausrichtung: -2
+    stil: magazin
+    verlaesslichkeit: 3
+    notiz: "Gegründet von Peter Pilz, aktivistischer Zugang."
+  apa_ots:
+    name: "APA-OTS (Presseaussendungen)"
+    rss: "https://www.ots.at/rss/?query=politik"
+    ausrichtung: 0
+    stil: agentur
+    verlaesslichkeit: 3
+    notiz: "ACHTUNG: OTS sind UNGEPRÜFTE Aussendungen der Absender (Parteien!). Absender-Bias, nicht Medien-Bias. Voller APA-Basisdienst nur mit Lizenz."
+
+ausland:
+  reuters:
+    name: "Reuters World"
+    rss: "https://feeds.reuters.com/Reuters/worldNews"
+    ausrichtung: 0
+    stil: agentur
+    verlaesslichkeit: 5
+    notiz: "Nachrichtenagentur, strikte Neutralitätsdoktrin. Vollfeed lizenzpflichtig."
+  faz:
+    name: "FAZ Politik"
+    rss: "https://www.faz.net/rss/aktuell/politik/"
+    ausrichtung: 1
+    stil: qualitaet
+    verlaesslichkeit: 5
+    notiz: "Konservativ-liberal, Leitmedium DE."
+  sz:
+    name: "Süddeutsche Zeitung Politik"
+    rss: "https://rss.sueddeutsche.de/rss/Politik"
+    ausrichtung: -1
+    stil: qualitaet
+    verlaesslichkeit: 5
+    notiz: "Linksliberal, Leitmedium DE."
+  spiegel:
+    name: "Der Spiegel Politik"
+    rss: "https://www.spiegel.de/politik/index.rss"
+    ausrichtung: -1
+    stil: magazin
+    verlaesslichkeit: 4
+    notiz: "Linksliberal, reichweitenstärkstes DE-Magazin."
+  nzz:
+    name: "NZZ International"
+    rss: "https://www.nzz.ch/international.rss"
+    ausrichtung: 1
+    stil: qualitaet
+    verlaesslichkeit: 5
+    notiz: "Liberal-konservativ, Schweizer Außenblick auf Österreich oft ergiebig."
+  guardian:
+    name: "The Guardian Europe"
+    rss: "https://www.theguardian.com/world/europe-news/rss"
+    ausrichtung: -1
+    stil: qualitaet
+    verlaesslichkeit: 4
+    notiz: "Linksliberal, UK."
+  politico_eu:
+    name: "Politico Europe"
+    rss: "https://www.politico.eu/feed/"
+    ausrichtung: 0
+    stil: magazin
+    verlaesslichkeit: 4
+    notiz: "EU-Politik-Fachmedium, Axel-Springer-Eigentum."
+  economist:
+    name: "The Economist Europe"
+    rss: "https://www.economist.com/europe/rss.xml"
+    ausrichtung: 1
+    stil: magazin
+    verlaesslichkeit: 5
+    notiz: "Wirtschaftsliberal, meist Paywall — Feed liefert Anrisse."
+
+# Politik-Filter: Ein Artikel gilt als relevant, wenn Titel oder
+# Anriss mindestens eines dieser Stichwörter enthält.
+politik_keywords:
+  - Nationalrat
+  - Bundesregierung
+  - Regierung
+  - Koalition
+  - Kanzler
+  - Minister
+  - FPÖ
+  - ÖVP
+  - SPÖ
+  - NEOS
+  - Grüne
+  - KPÖ
+  - Kickl
+  - Stocker
+  - Babler
+  - Meinl-Reisinger
+  - Wahl
+  - Umfrage
+  - Sonntagsfrage
+  - Parlament
+  - Landtag
+  - Budget
+  - Gesetz
+  - Verfassung
+  - EU-
+  - Europäische Union
+  - Austria
+  - Austrian
+  - Österreich
