@@ -5,7 +5,7 @@
 **Termin:** nach Abschluss der ersten Lernrunde, spätestens 15. August 2026
 **Priorität:** hoch
 **Input:** `02-dossiers/dossier-zi-2026-001-ust-senkung.md` · `01-erste-instanz/2026-07-ust-senkung-grundnahrungsmittel.md`
-**Status:** wartend
+**Status:** in Arbeit
 
 ## Ergebnis der Kanzlerin
 
