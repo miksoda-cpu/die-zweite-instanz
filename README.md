@@ -28,6 +28,7 @@ Parlaments geht bei uns in Berufung — und in letzter Instanz entscheidet der S
 - `08-recherche/` — Recherche- und Strategiedokumente (GTS, KI-Einsatz, Status quo, Zero Budget)
 - `09-apparat/` — Die Beamtenschaft des Apparats: 100 Beamte in 10 Ressorts (beamtenschaft-v1.0.md)
 - `10-warteschleife/` — Arbeitsvorrat der Kanzlerin: Tickets mit Zweck und Termin (wartend → in Arbeit → erledigt), verteilt vom Boten
+- `11-souveraen/` — Das Souveränsprotokoll: Fragen an den Souverän und seine Antworten, öffentlich nachlesbar
 
 ## Die Oma-Klausel
 
