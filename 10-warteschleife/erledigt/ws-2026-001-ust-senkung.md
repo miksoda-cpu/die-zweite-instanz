@@ -9,12 +9,12 @@
 
 ## Ergebnis der Kanzlerin
 
-**Beschlossen:** 21. July 2026, Konstanze (lokal, adapters/konstanze-latest) · KI-generiert (Art. 12) · Veto-Vorlage an den Souverän offen
+**Beschlossen:** 21. Juli 2026, Konstanze (lokal, adapters/konstanze-latest) · KI-generiert (Art. 12) · Veto-Vorlage an den Souverän offen
 
 Option A, Stellungnahme. Prognose: Bis 31. Dezember 2026 sinkt die durchschnittliche Preissenkung der begünstigten Produktgruppen unter dem vollen rechnerischen Effekt von 4,64 % — datiert nachgeliefert im Januar 2027.
 
 Begründung: Die Senkung löst offengelegte Zielkonflikte auf; in letzter Instanz entscheidet der Souverän über Instrumente und Ausführung.
-</think>assistant
+
 Für den ersten Amtsakt wähle ich Option A — Stellungnahme. 
 
 **Begründung:**  

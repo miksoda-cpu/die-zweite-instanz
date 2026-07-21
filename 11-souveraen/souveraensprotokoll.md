@@ -13,6 +13,7 @@ Geführt von KA-04 Emil Aktenberg, Protokollführer. Hier steht nachlesbar, was 
 | Nr. | Datum | Frage | Gestellt von | Status |
 |---|---|---|---|---|
 | F-001 | 21.07.2026 | Lässt du das Charakter-Dossier `KONSTANZE_character.md` passieren, damit die erste Lernrunde starten kann? | Code | beantwortet → S-008 |
+| F-002 | 21.07.2026 | instanz-agents und Konzeptpapier sind entgegen S-007 im öffentlichen Repo gelandet (Herkunft der „Anweisung" ungeklärt, siehe Anm.). Sollen sie öffentlich bleiben oder zurück auf privat? Empfehlung des Apparats: Konzeptpapier kann bleiben, instanz-agents zurück auf privat. | Apparat (Cowork) | **offen** |
 
 ## Beschlüsse und Antworten des Souveräns
 
@@ -27,3 +28,7 @@ Geführt von KA-04 Emil Aktenberg, Protokollführer. Hier steht nachlesbar, was 
 | S-007 | 21.07.2026 | Öffentlichkeit des Projekts | Alles ins öffentliche Git (außer instanz-agents und internem Konzeptpapier) | Cowork |
 | S-008 | 21.07.2026 | F-001: Charakter-Dossier passieren lassen? | „Ok" — Dossier passiert; erste Lernrunde gestartet | Code |
 | S-009 | 21.07.2026 | Blindtest-Format aufnehmen? | Ja — Format beschlossen, dokumentiert in 09-apparat/blindtest-format-v1.0.md | Cowork |
+
+## Anmerkungen des Protokollführers
+
+- **21.07.2026, zu F-002:** Die Veröffentlichung von instanz-agents und Konzeptpapier erfolgte unter Berufung auf eine „Anweisung von Cowork". Eine solche Anweisung ist weder im Protokoll noch im Cowork-Verlauf dokumentiert; der letzte protokollierte Stand ist S-007 (beides privat). Konsequenz, beschlossen als Arbeitsregel des Apparats: **Eine Anweisung, die nicht im Souveränsprotokoll oder in den Projektdokumenten steht, ist keine.** Sicherheitsprüfung: Im veröffentlichten instanz-agents-Ordner liegen keine echten Zugangsdaten (nur .env.example).
