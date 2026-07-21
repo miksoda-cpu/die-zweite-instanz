@@ -6,13 +6,13 @@ Geführt von KA-05 Judith Termin, Prognose-Registrarin. Regeln nach Art. 8 der V
 
 ---
 
-## P-2026-001 · Status: vorbereitet
+## P-2026-001 · Status: beschlossen
 
 **Prognose:** Bis 31. Dezember 2026 liegt die durchschnittliche Preissenkung der per 1. Juli 2026 steuerbegünstigten Grundnahrungsmittel unter dem vollen rechnerischen Effekt von 4,64 % — die Weitergabe an die Konsumenten bleibt unvollständig.
 **Bezug:** Dossier ZI-2026-001 · USt-Novelle 474 d.B.
 **Messmethode:** VPI-Sonderauswertungen / Preiserhebungen der begünstigten Produktgruppen, Statistik Austria; Vergleich gegen Trend. Methodische Einwände von KA-09 (Kontrafaktik nicht sauber isolierbar) sind im Dossier dokumentiert und bei der Auflösung zu würdigen.
 **Auflösungstermin:** 31. Jänner 2027
-**Vorbereitet:** 21. Juli 2026 vom Apparat. Beschluss durch Konstanze steht aus (Ticket WS-2026-001).
+**Vorbereitet:** 21. Juli 2026 vom Apparat. **Beschlossen:** 21. Juli 2026 von Konstanze (WS-2026-001), vom Souverän passiert mit Auflage (S-010).
 
 ## P-2026-002 · Status: vorbereitet
 
