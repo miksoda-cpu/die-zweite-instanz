@@ -12,7 +12,7 @@ Geführt von KA-04 Emil Aktenberg, Protokollführer. Hier steht nachlesbar, was 
 
 | Nr. | Datum | Frage | Gestellt von | Status |
 |---|---|---|---|---|
-| F-001 | 21.07.2026 | Lässt du das Charakter-Dossier `KONSTANZE_character.md` passieren, damit die erste Lernrunde starten kann? | Code | beantwortet → S-006 |
+| F-001 | 21.07.2026 | Lässt du das Charakter-Dossier `KONSTANZE_character.md` passieren, damit die erste Lernrunde starten kann? | Code | beantwortet → S-008 |
 
 ## Beschlüsse und Antworten des Souveräns
 
@@ -23,6 +23,7 @@ Geführt von KA-04 Emil Aktenberg, Protokollführer. Hier steht nachlesbar, was 
 | S-003 | 21.07.2026 | Technischer Ort Konstanzes? | Im VAL-Repo (eigene Adapter, eigenes Character-File); Normatives in der Zweiten Instanz; Valerie unberührt | Code |
 | S-004 | 21.07.2026 | Lebenszyklus der Gesetze | Jedes Gesetz befristet, Evaluierung mit vorab beschlossenem Ergebnisplan, Novellen tabu, jederzeitiger Rangverlust möglich → Verfassung v0.2, Art. 9 | Cowork |
 | S-005 | 21.07.2026 | Reichweite der Bürgerstimme? | Stufenmodell: Argument → Einspruchsrecht der Verbundenen → echte Abstimmung → Verfassung v0.3, Art. 7 | Cowork |
-| S-006 | 21.07.2026 | F-001: Charakter-Dossier passieren lassen? | „Ok" — Dossier passiert; erste Lernrunde gestartet | Code |
 | S-006 | 21.07.2026 | Aufbau des Apparats | 100 Beamte in 10 Ressorts, errichtet nach Art. 13 Abs 4 → Beamtenschaft v1.0 | Cowork |
 | S-007 | 21.07.2026 | Öffentlichkeit des Projekts | Alles ins öffentliche Git (außer instanz-agents und internem Konzeptpapier) | Cowork |
+| S-008 | 21.07.2026 | F-001: Charakter-Dossier passieren lassen? | „Ok" — Dossier passiert; erste Lernrunde gestartet | Code |
+| S-009 | 21.07.2026 | Blindtest-Format aufnehmen? | Ja — Format beschlossen, dokumentiert in 09-apparat/blindtest-format-v1.0.md | Cowork |
