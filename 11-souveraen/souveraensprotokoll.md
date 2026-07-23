@@ -30,6 +30,7 @@ Geführt von KA-04 Emil Aktenberg, Protokollführer. Hier steht nachlesbar, was 
 | S-008 | 21.07.2026 | F-001: Charakter-Dossier passieren lassen? | „Ok" — Dossier passiert; erste Lernrunde gestartet | Code |
 | S-009 | 21.07.2026 | Blindtest-Format aufnehmen? | Ja — Format beschlossen, dokumentiert in 09-apparat/blindtest-format-v1.0.md | Cowork |
 | S-010 | 21.07.2026 | F-003: Konstanzes erster Beschluss (WS-2026-001) | Passiert — **mit Auflage:** Qualität muss besser werden, und jedes Ergebnis muss für Oma lesbar sein. Auflage geht als Trainingsauftrag an Code (Seed-Typen: Oma-Teil verpflichtend, Gegenposition ausdrücklich beantworten, Korrektur-Runden). | Cowork |
+| S-011 | 21.07.2026 | Position zur USt-Senkung (Nachtrag) | Die Zweite Instanz hätte das Gesetz so nicht beschlossen: mangelnde Treffsicherheit für einkommensschwache Haushalte (Momentum/Digioneer); Auslands-Alternativen wären zu prüfen gewesen. Apparat räumt Dossier-Lücke ein → Nachtrag ZI-2026-001a, Pflichtquellen-Regel neu. | Cowork |
 
 ## Anmerkungen des Protokollführers
 
